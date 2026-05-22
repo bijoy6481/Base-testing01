@@ -16,4 +16,6 @@ Base 7 testing
 Base 8 testing 
 Base 9 testing 
 Base 10 testing 
+Base 11 testing
+
 
