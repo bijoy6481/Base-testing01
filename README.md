@@ -19,3 +19,4 @@ Base 10 testing
 Base 11 testing
 Base 12 testing
 Base 13 testing 
+Base 14 testing
