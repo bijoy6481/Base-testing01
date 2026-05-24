@@ -23,3 +23,4 @@ Base 14 testing
 Base 15 testing
 Base 16 testing
 base 17 testing
+Base 18 testing
