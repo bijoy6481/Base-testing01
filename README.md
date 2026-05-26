@@ -41,3 +41,4 @@ Base 32 testing
 Base 33 testing
 Base 34 testing 
 Base 35 testing
+Base 36 testing
