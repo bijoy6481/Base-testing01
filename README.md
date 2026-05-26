@@ -37,3 +37,4 @@ Base 28 testing
 Base 29 Testing
 Base 30 testing
 Base 31 testing
+Base 32 testing
