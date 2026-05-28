@@ -70,3 +70,4 @@ Base 61 testing
 Base 62 testing
 Base 63 testing
 Base 64 testing
+Base 65 testing
