@@ -67,3 +67,4 @@ Base 58 testing
 Base 59 testing
 Base 60 testing
 Base 61 testing 
+Base 62 testing
